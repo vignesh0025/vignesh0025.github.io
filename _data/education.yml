@@ -1,0 +1,23 @@
+- layout: left
+  name: SVNIT Surat, Gujarat 1
+  dates: 2019 - 2021 (Expected)
+  qualification: M.Tech, Communication Systems
+  quote: >
+    # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  # description: | # this will include new lines to allow paragraphs
+    # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+    # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+- layout: left
+  name: NIT Puducherry, Pondicherry
+  dates: 2012 - 2016
+  qualification: B.Tech, Electronics and Communication Systems
+  quote: >
+    National Institute of Technology Puducherry (NITPY),  nestled in the scenes of Karaikal, a coastal enclave in the basin of river Kaveri is one among the ten new NITs in the Union Territory of Puducherry
+  description: | # this will include new lines to allow paragraphs
+    Entering a engineering university of National Importance, I got so much exposure in lot of new technologies. I got a solid understanding of Electronics and Engineering and I was able to implement many of the things I learned practically. With an in-depth of Mathematics, it transformed me from a novice to a professional engineer.
+
+    Apart from Education, I was the head of technical committee and I developed websites for Department Symposium, Tarangg. I have also conducted workshops for other college students during my bachelor course.
+
+    I spent most of time coding and learning new technologies

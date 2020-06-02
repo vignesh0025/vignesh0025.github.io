@@ -1,0 +1,7 @@
+- layout: left
+  company: MBit Wireless Pvt. Ltd, Chennai
+  job_title: Embedded Development Engineer
+  dates: October 2016 - May 2018
+  quote: MBit Wireless is developing solution for mobile broadband communications.
+  description: | # this will include new lines to allow paragraphs
+      At MBIT Wireless, I was working in LTE Protocol firmware development and testing. As part of my job, I had to read pages and pages of <mark>3GPP LTE</mark> specification, line by line so that the implementation is flawless. This gave me an opportunity to get an in-depth understanding of LTE Technology. Often, I got challeged with extreme complexity of scenarios and this provided very good experience for learning the technology as well as the tools (Embedded C)

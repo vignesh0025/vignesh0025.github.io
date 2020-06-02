@@ -18,8 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vignesh D, Profile
-email: vignesh0025@example.com
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+darkmode: true
+
+# Personal Info
+name: Vignesh D
+title:  Profile
+email: vignesh0025@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     My Resume, Updated on regular basis is provided in this space
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,10 +34,36 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vignesh0025
 github_username:  vignesh0025
 
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me 12
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
 # Build settings
-theme: minima
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
-   - jekyll-feed
+    - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

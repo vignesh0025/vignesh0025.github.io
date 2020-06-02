@@ -1,0 +1,5 @@
+about_profile_image: images/my.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am Vignesh D, Student of Masters in Technology in Communication Systems, SVNIT, Surat. I have two years of experience in firmware developement for LTE RRC Protocol stack and embedded systems.
+
+  My Area of interests include Embedded Systems(ARM and x86 architectures), digital VLSI Design and Electronic Design. I am well experienced in system level programming languages, <mark>C</mark> and <mark>C++</mark> (incl. C++17). I also have in-depth experience in <mark>Python</mark> along with numpy, scipy, matplotlib, keras, opencv and tensorflow libraries for Python.
