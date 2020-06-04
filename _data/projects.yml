@@ -1,8 +1,36 @@
 - layout: top-middle
-  name: Real Time Motion Sensing and Motion Control
+  name: Real Time Motion Sensing and Hardware Control
   # link: github.com/sproo
   # github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: #| # this will include new lines to allow paragraphs
-    # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+      This is the official final year B.Tech project. In this paper, I implemented A Real Time Tracking Algorithm using <mark>Bayes Classifier</mark> in C language in a Raspberry Pi - 2. Based on the initial object selection given by the user, the object is tracked. The tracked information is fed to a Atmega8 Microcontroller and the controller adjust the camera mounted of a serve motor. As the object moves, the data also moves accordingly.
+
+        The front end part uses <mark>C Language. GUI part is implemented using QT Library (C++)</mark>. Reference Paper for the project is the following.
+        1. K. Zhang, L. Zhang and M. Yang, "Fast Compressive Tracking," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 36, no. 10, pp. 2002-2015, 1 Oct. 2014, doi: 10.1109/TPAMI.2014.2315808
+
+- layout: top-middle
+  name: Vehicle Tracking using RFID - Texas Instruments Innovative Challenge
+  quote: >
+      We got selected for quarter finals but unable to continue due to change in the associated faculty
+  description: |
+      In this project, we provided a solution to track vehicles around the country using RFID Sensors and readers. RFID tag can be fitted with the chassis of the vehicle and the corresponing tag ID with chassis no. mapping is recorded in central database. As the vehicles moves around the the street, a RFID Reader at important junction reads the ID and notes the timestamp. THis way, when a need arises to track a vehicle, we can look at the time stamps recorded by all the readers in a single centralised database and the vehicled can be tracked in realtime.
+
+- layout: top-middle
+  name: Implementation of "An Introduction to Deep Learning for the Physical Layer"
+  quote: >
+      As part of Wireless Lab in my masters, I have done the below project in Wireless Communication
+  description: |
+      In this, we use an AutoEncoder Neural Network to simulate the physical layer of communication systems. This type of implementation gives huge advantage over conventional schemes as the encoding schemes and parameters are automatically learned based on the provided channel conditions. The designer need not perform extensive research on various encoding techniques to find the most efficient one for the present channel conditions.
+
+      Implemented in Python using TensorFlow Neural Network Library. Research paper for the same.
+
+        1. T. O’Shea and J. Hoydis, "An Introduction to Deep Learning for the Physical Layer," in IEEE Transactions on Cognitive Communications and Networking, vol. 3, no. 4, pp. 563-575, Dec. 2017, doi: 10.1109/TCCN.2017.2758370.
+
+- layout: top-middle
+  name: Design of Cantilever based nano Mass Sensor
+  quote: >
+      This is a group project and is done as part of Nanotechnology Paper in Masters
+  description: |
+      In this, we designed a Nano Mass sensor using Cantilever Beam.  <mark>TBD</mark>
